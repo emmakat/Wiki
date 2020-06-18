@@ -9,6 +9,8 @@
 
 [Ryan's Python Demo](https://youtu.be/ddFI63dgpaI)
 
+[Dictating Math with Talon](https://www.youtube.com/watch?v=3wiC3xKnVgc)
+
 [2Shea's Mojolicious Perl App using Talon](https://youtu.be/X6rsA0Svh2M)
 
 [2Shea's Emoji Searching Demo](https://youtu.be/RA0idiJkZOg)
